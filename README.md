@@ -12,6 +12,12 @@ Build a simple stack and queue UI Implementation with Reactjs where can perform 
 ![Screenshot 2024-06-10 110033](https://github.com/adarsh206/stack-queue/assets/76390366/617ce3e4-d2f3-41a7-8336-a83ecf5d62da)
 
 
+# How to use this project:
+1. first download this repository into your local system.
+2. then open in any code editor like vscode.
+3. then install all the dependencies mention in package.json file.
+4. and then run on any browser like chrome it will start running project.
+
 
 # React + Vite
 
